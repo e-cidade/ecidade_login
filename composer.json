@@ -1,0 +1,15 @@
+{
+	"name": "e-cidade/ecidade-login",
+	"description": "Integração com login do e-Cidade",
+	"type": "project",
+	"license": "AGPL-3.0-or-later",
+	"homepage": "https://github.com/e-cidade/ecidade_login",
+	"support": {
+		"issues": "https://github.com/e-cidade/ecidade_login/issues"
+	},
+	"autoload": {
+		"psr-4": {
+			"OCA\\EcidadeLogin\\": "lib/"
+		}
+	}
+}
